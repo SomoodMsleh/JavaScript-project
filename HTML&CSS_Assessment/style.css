@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fa;
+    color: #222;
+    margin: 0;
+    padding: 0 1rem;
+}
+
+header,
+div,
+footer {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+h1,
+h2 {
+    color: #007acc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+}
